@@ -1,0 +1,13 @@
+@net01.WEBAPI_HostAddress = http://localhost:5225/api/consultorios
+
+GET {{net01.WEBAPI_HostAddress}}/019CFC28-020E-7754-A1F5-D53DADEB6CF3
+Accept: application/json
+
+###
+
+Post {{net01.WEBAPI_HostAddress}}
+Content-Type: application/json
+
+{
+  "nombre": "Consultorio A"
+}

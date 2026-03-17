@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "net01.WEBAPI.Controllers.ConsultoriosController",
+    "Method": "Post",
+    "RelativePath": "api/consultorios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creaConsultorioDTO",
+        "Type": "net01.WEBAPI.DTOs.Consultorio.CreateConsultorioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "net01.WEBAPI.Controllers.ConsultoriosController",
+    "Method": "Get",
+    "RelativePath": "api/consultorios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "net01.Application.UseCases.Consultorios.Querys.GetConsultorioDetails.ConsultorioDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
