@@ -1,0 +1,15 @@
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\bin\Debug\net9.0\net01.Application.deps.json
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\bin\Debug\net9.0\net01.Application.dll
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\bin\Debug\net9.0\net01.Application.pdb
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\bin\Debug\net9.0\net01.Dominio.dll
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\bin\Debug\net9.0\net01.Dominio.pdb
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.csproj.AssemblyReference.cache
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.AssemblyInfoInputs.cache
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.AssemblyInfo.cs
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.csproj.CoreCompileInputs.cache
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Ap.029DEBA4.Up2Date
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.dll
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\refint\net01.Application.dll
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\net01.Application.pdb
+C:\Users\nayit.ruiz\source\repos\net01\net01.Application\obj\Debug\net9.0\ref\net01.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\bin\Debug\net9.0\net01.Dominio.deps.json
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\bin\Debug\net9.0\net01.Dominio.dll
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\bin\Debug\net9.0\net01.Dominio.pdb
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.AssemblyInfoInputs.cache
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.AssemblyInfo.cs
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.dll
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\refint\net01.Dominio.dll
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\net01.Dominio.pdb
+C:\Users\nayit.ruiz\source\repos\net01\NET01.Dominio\obj\Debug\net9.0\ref\net01.Dominio.dll
